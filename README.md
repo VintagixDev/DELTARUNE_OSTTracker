@@ -11,7 +11,9 @@ A Deltarune Soundtrack Tracker for your OST% runs !<br>
 - Use your preferred ROM Patcher to apply the patches to each of the vanilla data.win files. If you don't have any, I recommend using [this one](https://www.marcrobledo.com/RomPatcher.js/) (place the original file in the ROM section and the mod in the Patch section);
 
 # How To Use ?
-- After selecting a chapter, the top left of the game will have a list of soundtracks. If the soundtrack is white, it means you haven't listened to it. If it is yellow, it means that you have listened to it.
+- After selecting a chapter, the top left of the game will have a list of soundtracks.
+   - If the soundtrack is white, it means you haven't listened to it.
+   - If it is yellow, it means that you have listened to it.
 - Navigate through the soundtracks using the **S <ins>(Previous ST)</ins>** or **D <ins>(Next ST)</ins> keybinds**.
 - Toggle the top-left tracker using the **T keybind**.
 - Reset the Mod's data using the **"Reset Data"** button on the Chapter 1 file selection screen before each run.
