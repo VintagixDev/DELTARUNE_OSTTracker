@@ -16,6 +16,9 @@ A Deltarune Soundtrack Tracker for your OST% runs !<br>
 - Toggle the top-left tracker using the **T keybind**.
 - Reset the Mod's data using the **"Reset Data"** button on the Chapter 1 file selection screen before each run.
 
+# Bug Report
+If you happen to see a bug or need to contact me, ping @vintagix in the [Deltarune Speedrunning Discord Server](discord.com/N5fv4kEwsB), in #software-feedback.
+
 # Credits
 - Coding: Vintagix;
 - Help & Porting: NERS.
