@@ -24,3 +24,11 @@ If you happen to see a bug or need to contact me, ping @vintagix in the [Deltaru
 # Credits
 - Coding: Vintagix;
 - Help & Porting: NERS.
+
+# Screenshots
+<p float="left">
+<img src="https://github.com/user-attachments/assets/b7aafc19-59a6-4e0d-b6e8-8a49ec13888a" width=500/> <img src="https://github.com/user-attachments/assets/b1734eff-fff7-4128-9d9a-5423d78c1d55" width=500/>
+</p>
+
+
+
