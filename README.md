@@ -2,7 +2,7 @@
 
 # DELTARUNE OST% Tracker Mod
 A Deltarune Soundtrack Tracker for your OST% runs !<br>
-**NOTE:** This mod is only supported on Chapter 1&2 LTS v3 (1.19) as for now.
+**NOTE:** This mod is only supported on Chapter 1&2 1.09, 1.15 and LTS v3 (1.19).
 
 # How to install ?
 - This mod was only tested on Windows and it's currently unknown if it's supported on Mac. If you have macOS and want to test it, use game.ios instead of data.win in the following steps. Linux is not supported at all because the game_change() function doesn't work;
